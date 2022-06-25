@@ -69,7 +69,7 @@ export function Subscribe() {
         </div>
       </div>
 
-      <img src="/static/code-mockup.png"className="mt-10" alt="Background Blur Green" />
+      <img src="/pl/assets/code-mockup.png"className="mt-10" alt="Background Blur Green" />
     </div>
   );
 }
