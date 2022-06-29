@@ -1,5 +1,3 @@
-![App Screenshot](.github/cover.png)
-
 ## ✨ Stack
 -  [ ] React
 -  [ ] Typescript
@@ -29,5 +27,7 @@ Pelo seu terminal navegue até a pasta do projeto e execute:
 
 Siga-me no Linkedin, estou sempre por lá.
 - [Linkedin](https://www.linkedin.com/in/felipe-fernandes-45b70023a)
+
+[![GitHub issues](https://img.shields.io/github/issues/edgarfelipe/Plataforma-aulas?logo=FelipeFernandes&style=flat-square)](https://github.com/edgarfelipe/Plataforma-aulas/issues)
 
 
